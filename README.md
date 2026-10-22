@@ -3,3 +3,5 @@
 
 Google Data Analytics Case Study 001 - 
 https://github.com/bmc840586/Google-CaseStudy-001
+Google Data Analytics Case Study 002 -
+https://github.com/bmc840586/Google-Data-Analytics-Case-Study-002
