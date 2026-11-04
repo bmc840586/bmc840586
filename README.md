@@ -5,17 +5,17 @@
 <section>
   <h3>Certifications</h3>
   	<details>
-  		<summary>Google Data Analytics Professional Certificate </summary> 
+  		<summary>Google Data Analytics Professional Certificate <a href="https://coursera.org/verify/professional-cert/I754FRYZKLIO">Certificate</a></summary> 
   			<ul>
-				<li>Foundations: Data, Data, Everywhere</li>
-				<li>Ask Questions to Make Data-Driven Decisions</li>
-				<li>Prepare Data for Exploration</li>
-				<li>Process Data from Dirty to Clean</li>
-				<li>Analyze Data to Answer Questions</li>
-				<li>Share Data Through the Art of Visualization</li>
-				<li>Introduction to Data Analysis Using Python</li>
-				<li>Google Data Analytics Capstone: Complete a Case Study</li>
-				<li>Accelerate Your Job Search with AI</li>
+				<li>Foundations: Data, Data, Everywhere <a href="https://coursera.org/verify/2LCPWWYARKIB">Certificate</a></li>
+				<li>Ask Questions to Make Data-Driven Decisions <a href="https://coursera.org/verify/S13FLEND1ZCJ">Certificate</a></li>
+				<li>Prepare Data for Exploration <a href="https://coursera.org/verify/QDDQL02RT93B">Certificate</a></li>
+				<li>Process Data from Dirty to Clean <a href="https://coursera.org/verify/6D99TDH50ZRG">Certificate</a></li>
+				<li>Analyze Data to Answer Questions <a href="https://coursera.org/verify/RXHI3HNQ5018">Certificate</a></li>
+				<li>Share Data Through the Art of Visualization <a href="https://coursera.org/verify/N912K9YPEI0P">Certificate</a></li>
+				<li>Introduction to Data Analysis Using Python <a href="https://coursera.org/verify/JLLUWDNDSV6E">Certificate</a></li>
+				<li>Google Data Analytics Capstone: Complete a Case Study <a href="https://coursera.org/verify/HNAFN5ESOT1W">Certificate</a></li>
+				<li>Accelerate Your Job Search with AI <a href="https://coursera.org/verify/9OFBYCBTRKSS">Certificate</a></li>
 			</ul>
 	</details>
 
