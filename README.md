@@ -18,7 +18,27 @@
 				<li>Accelerate Your Job Search with AI <a href="https://coursera.org/verify/9OFBYCBTRKSS">Certificate</a></li>
 			</ul>
 	</details>
-
+	<details>
+		<summary>Google AI</summary>
+			<ul>
+				<details>
+					<summary>Google AI Essentials Specialization</summary>
+						<ul>
+							<li>Introduction to AI</li>
+							<li>Maximize Productivity With AI Tools</li>
+							<li>Discover the Art of Prompting</li>
+							<li>Use AI Responsibly</li>
+							<li>Stay Ahead of the AI Curve</li>
+						</ul>
+				</details>
+				<details>
+					<summary>Google Prompting Essentials Specialization</summary>
+				</details>
+				<details>
+					<summary>Google AI Professional Certificate</summary>
+				</details>
+			</ul>
+	</details>
 </section>
 
 <section>
