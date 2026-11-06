@@ -21,13 +21,13 @@
 		<summary>Google AI</summary>
 			<ul>
 				<details>
-					<summary>Google AI Essentials Specialization</summary>
+					<summary>Google AI Essentials Specialization <a href="https://coursera.org/verify/specialization/DX66M2TWQM66">Certificate</a></summary>
 						<ul>
-							<li>Introduction to AI</li>
-							<li>Maximize Productivity With AI Tools</li>
-							<li>Discover the Art of Prompting</li>
-							<li>Use AI Responsibly</li>
-							<li>Stay Ahead of the AI Curve</li>
+							<li>Introduction to AI <a href="https://coursera.org/verify/KV0B2EKX5K5S">Certificate</a></li>
+							<li>Maximize Productivity With AI Tools <a href="https://coursera.org/verify/LAPO4PGX7GQB">Certificate</a></li>
+							<li>Discover the Art of Prompting <a href="https://coursera.org/verify/66XEMXITXRLZ">Certificate</a></li>
+							<li>Use AI Responsibly <a href="https://coursera.org/verify/N3PL6904PP60">Certificate</a></li>
+							<li>Stay Ahead of the AI Curve <a href="https://coursera.org/verify/TGGAYUCZZSLR">Certificate</a></li>
 						</ul>
 				</details>
 				<details>
@@ -36,6 +36,15 @@
 				<details>
 					<summary>Google AI Professional Certificate</summary>
 				</details>
+			</ul>
+	</details>
+	<details>
+		<summary>Excel Skills for Business Specialization by Macquarie University</summary>
+			<ul>
+				<li>Excel Skills for Business: Essentials</li>
+				<li>Excel Skills for Business: Intermediate I</li>
+				<li>Excel Skills for Business: Intermediate II</li>
+				<li>Excel Skills for Business: Advanced</li>
 			</ul>
 	</details>
 </section>
