@@ -31,7 +31,13 @@
 						</ul>
 				</details>
 				<details>
-					<summary>Google Prompting Essentials Specialization</summary>
+					<summary>Google Prompting Essentials Specialization <a href="https://coursera.org/verify/specialization/284N4G6IPTFV">Certificate</a></summary>
+						<ul>
+							<li>Start Writing Prompts like a Pro <a href="https://coursera.org/verify/PZC0SV200W2Z">Certificate</a></li>
+							<li>Design Prompts for Everyday Work Tasks <a href="https://coursera.org/verify/KUI1QJL4H6SN">Certificate</a></li>
+							<li>Speed Up Data Analysis and Presentation Building <a href="https://coursera.org/verify/VXKWY06C2V8Z">Certificate</a></li>
+							<li>Use AI as a Creative or Expert Partner <a href="https://coursera.org/verify/WYAZTTCG8T17">Certificate</a></li>
+						</ul>
 				</details>
 				<details>
 					<summary>Google AI Professional Certificate</summary>
